@@ -1,3 +1,6 @@
+// hello world simplly
+console.log("Hello world");
+
 // printing hello chai simply by calling function
 function printchai() {
     console.log("Hello from wasif");
