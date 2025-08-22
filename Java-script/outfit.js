@@ -1,6 +1,6 @@
 // Server call : rainy , cloudy , sunny ...
 
-let weather = "cloudy";
+let weather = "sunny";
 
 if (weather === "rainy"){
     console.log("it's rainy , umbrella le jana bhaiii ")

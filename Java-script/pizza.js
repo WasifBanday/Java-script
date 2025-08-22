@@ -5,7 +5,7 @@ let pizzasize;
 // large --> for more then 5
 
 if(numberofGuest<=0){
-    pizzasize="Hanji fir kyu hi karna hai order"
+    pizzasize="Hanji, fir kyu hi karna hai order"
     console.log(pizzasize)
 }
 else if(numberofGuest<=2){
