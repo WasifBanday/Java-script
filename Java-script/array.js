@@ -5,9 +5,10 @@ let intFruits = ["kiwi", "avacado", "dragon fruit"];
 console.log(fruits);
 console.log(intFruits);
 
-// lets print the first item of array ..
+// lets print the first item of an array ..
 console.log(fruits[0]);
-// lets  view the length of array
+
+// lets  view the length of an array
 console.log(fruits.length);
 
 
@@ -15,11 +16,11 @@ console.log(fruits.length);
 fruits[0]="blueberry"
 console.log(fruits[0]);
 
-// Adding new item in array at end of array..
+// Adding new item in array at end of the array..
 fruits.push("Mango")
 console.log(fruits);
 
-// Adding new item in array but at starting of array..
+// Adding new item in array but at starting of the array..
 fruits.unshift("Orange")
 console.log(fruits);
 
