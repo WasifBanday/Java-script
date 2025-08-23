@@ -27,3 +27,10 @@ console.log(fruits);
 // Erasing the last item in array ..
 fruits.pop();
 console.log(fruits);
+
+
+
+
+
+
+// See other array methods from mdn ...
