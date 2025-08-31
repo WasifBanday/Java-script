@@ -13,7 +13,7 @@ console.log(fruits.length);
 
 
 // Changing name/value  of 1st fruit in array through indexing ...
-fruits[0]="blueberry"
+fruits[0] = "blueberry"
 console.log(fruits[0]);
 
 // Adding new item in array at end of the array..
